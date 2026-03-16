@@ -2,11 +2,6 @@
 
 A Spring Boot-based online movie ticket booking platform that caters to both B2B (theatre partners) and B2C (end customers) clients.
 
-## Build & Test Status
-
-- Tests: ✅ All tests passing (64/64) — verified on 2026-01-21
-
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Technology Stack](#technology-stack)
